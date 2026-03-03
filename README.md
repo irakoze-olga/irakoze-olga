@@ -32,20 +32,17 @@ I leverage a modern, industry-standard toolset to transform complex problems int
 ### GitHub Ecosystem
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=irakoze-olga&show_icons=true&theme=tokyonight&hide_border=true&title_color=00FFFF&icon_color=00FFFF&text_color=ffffff" alt="Olga's Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=irakoze-olga&layout=compact&theme=tokyonight&hide_border=true&title_color=00FFFF&text_color=ffffff" alt="Top Languages" width="45%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=irakoze-olga&show_icons=true&theme=tokyonight&hide_border=true&title_color=00FFFF&icon_color=00FFFF&text_color=ffffff" alt="Olga's Stats" width="80%" />
 </p>
 
 ---
 
 ### Connect & Collaborate
 
-I am always open to discussing technical challenges, open-source contributions, or professional opportunities.
-
 <p align="left">
-<a href="https://linkedin.com/in/irakoze-olga" target="blank"><img align="center" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-<a href="https://instagram.com/olga4.90" target="blank"><img align="center" src="https://img.shields.io/badge/instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
-<a href="mailto:irakozeolga490@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/gmail-%23D14836.svg?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+<a href="https://linkedin.com/in/irakoze-olga" target="blank"><img src="https://skillicons.dev/icons?i=linkedin" width="45" alt="LinkedIn" /></a>
+<a href="https://instagram.com/olga4.90" target="blank"><img src="https://skillicons.dev/icons?i=instagram" width="45" alt="Instagram" /></a>
+<a href="mailto:irakozeolga490@gmail.com" target="blank"><img src="https://skillicons.dev/icons?i=gmail" width="45" alt="Email" /></a>
 </p>
 
 <p align="center">
