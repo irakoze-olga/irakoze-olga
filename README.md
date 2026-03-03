@@ -22,7 +22,7 @@ I leverage a modern, industry-standard toolset to transform complex problems int
 [![Frontend](https://skillicons.dev/icons?i=html,css,js,ts,react,tailwind,figma&theme=dark)](https://skillicons.dev)
 
 **Backend & Infrastructure**
-[![Backend](https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,postgresql,firebase&theme=dark)](https://skillicons.dev)
+[![Backend](https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,&theme=dark)](https://skillicons.dev)
 
 **Systems & Workflow**
 [![Tools](https://skillicons.dev/icons?i=git,github,linux,docker,vscode,postman&theme=dark)](https://skillicons.dev)
