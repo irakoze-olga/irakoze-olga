@@ -8,13 +8,13 @@
 
 I am a software engineer dedicated to building scalable, high-impact digital solutions. With a rigorous technical foundation from the **Rwanda Coding Academy**, I specialize in crafting clean, maintainable code across the full stack, with a particular interest in system efficiency and embedded logic.
 
-* **Location:** Rwanda 🇷🇼
+* **Location:** Rwanda , RCA 🇷🇼
 * **Focus:** Full-Stack Web Development & System Design.
 * **Philosophy:** Writing code that is as performant as it is readable.
 
 ---
 
-### Technical Arsenal
+### Technical 
 
 I leverage a modern, industry-standard toolset to transform complex problems into functional software.
 
@@ -22,20 +22,14 @@ I leverage a modern, industry-standard toolset to transform complex problems int
 [![Frontend](https://skillicons.dev/icons?i=html,css,js,ts,react,tailwind,figma&theme=dark)](https://skillicons.dev)
 
 **Backend & Infrastructure**
-[![Backend](https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,postgresql,firebase&theme=dark)](https://skillicons.dev)
+[![Backend](https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,&theme=dark)](https://skillicons.dev)
 
 **Systems & Workflow**
-[![Tools](https://skillicons.dev/icons?i=git,github,linux,docker,vscode,postman&theme=dark)](https://skillicons.dev)
+[![Tools](https://skillicons.dev/icons?i=git,github,linux,vscode,postman&theme=dark)](https://skillicons.dev)
 
 ---
 
-### GitHub Ecosystem
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=irakoze-olga&show_icons=true&theme=tokyonight&hide_border=true&title_color=00FFFF&icon_color=00FFFF&text_color=ffffff" alt="Olga's Stats" width="80%" />
-</p>
-
----
 
 ### Connect & Collaborate
 
