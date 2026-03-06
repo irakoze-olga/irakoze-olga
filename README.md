@@ -8,7 +8,7 @@
 
 I am a software engineer dedicated to building scalable, high-impact digital solutions. With a rigorous technical foundation from the **Rwanda Coding Academy**, I specialize in crafting clean, maintainable code across the full stack, with a particular interest in system efficiency and embedded logic.
 
-* **Location:** Rwanda , RCA 🇷🇼
+* **Location:** Rwanda 
 * **Focus:** Full-Stack Web Development & System Design.
 * **Philosophy:** Writing code that is as performant as it is readable.
 
