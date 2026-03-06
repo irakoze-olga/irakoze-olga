@@ -21,7 +21,7 @@ I leverage a modern, industry-standard toolset to transform complex problems int
 **Frontend & Interface**
 [![Frontend](https://skillicons.dev/icons?i=html,css,js,ts,react,tailwind,figma&theme=dark)](https://skillicons.dev)
 
-**Backend & Infrastructure**
+**Backend 
 [![Backend](https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,&theme=dark)](https://skillicons.dev)
 
 **Systems & Workflow**
